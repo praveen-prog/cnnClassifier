@@ -23,4 +23,6 @@ class DogCat:
             return [{ "image" : prediction}]
         else:
             prediction = 'cat'
-            return [{ "image" : prediction}]        
+            return [{ "image" : prediction}]    
+        
+            
